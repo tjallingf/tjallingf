@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Tjalling, a selftaught web developers from the Netherlands🇳🇱 who likes to build websites and webapps.
+I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes to build websites and webapps.
 
 ## What I'm currently working on:
 
