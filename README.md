@@ -9,6 +9,6 @@ I'm Tjalling, a guy who likes building websites and web apps from the Netherland
 
 ## Let's get in touch:
 
-- Website: [https://tjalling.net/](tjalling.net)
-- Email: [mailto:webmaster@tjalling.net](webmaster@tjalling.net)
+- Website: [tjalling.net](https://tjalling.net/)
+- Email: [webmaster@tjalling.net](mailto:webmaster@tjalling.net)
 - Discord: Sjaaaling#9532
