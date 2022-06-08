@@ -6,6 +6,7 @@ I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes
 
 - [Magistraal](https://github.com/magistraal-app/) features an all new way to use Iddink's Magister for students.
 - [ThusPi](https://github.com/thuspi/) is a highly in development smart home platform based on the Raspberry Pi.
+- [Quizlet Unlocked](https://github.com/tjallingf/quizlet-unlocked/) allows users to bypass the restriction on the learn and write modes for Quizlet sets.
 
 ## Let's get in touch:
 
