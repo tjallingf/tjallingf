@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes to build websites and webapps.
+I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes to build websites and web apps.
 
 ## What I'm currently working on:
 
@@ -11,5 +11,5 @@ I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes
 ## Let's get in touch:
 
 - Website: [tjalling.net](https://tjalling.net/)
-- Email: [webmaster@tjalling.net](mailto:webmaster@tjalling.net)
+- Email: [hello@tjalling.net](hello:webmaster@tjalling.net)
 - Discord: Sjaaaling#9532
