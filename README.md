@@ -10,5 +10,5 @@ I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes
 ## Let's get in touch:
 
 - Website: [tjalling.net](https://tjalling.net/)
-- Email: [hello@tjalling.net](hello:webmaster@tjalling.net)
+- Email: [hello@tjalling.net](mailto:hello@tjalling.net)
 - Discord: Sjaaaling#9532
