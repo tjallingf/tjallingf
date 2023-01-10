@@ -10,4 +10,4 @@ I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes
 ## Let's get in touch!
 
 - Email: [hello@tjalling.net](mailto:hello@tjalling.net)
-- Discord: Sjaaaling#9532
+- Discord: [Sjaaaling#9532](https://discord.com/users/512328135698808832)
