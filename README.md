@@ -4,8 +4,9 @@ I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes
 
 ## What I'm currently working on
 
-- Magistraal: Features an all new way to use Iddink's Magister for students.
 - [PHP Router](https://github.com/tjallingf/php-router/): An extensive PHP Router library.
+- Magistraal: Features an all new way to use Iddink's Magister for students.
+- [ThusPi](https://github.com/tjallingf/thuspi): A moden smarthome system for the Raspberry Pi 4.
 
 ## Projects of mine
 - [Quizfree](https://github.com/tjallingf/quizfree/): Allows users to bypass the restrictions on the learn and write modes for Quizlet sets.
