@@ -4,8 +4,9 @@ I'm Tjalling, a self-taught web developer from the Netherlands🇳🇱 who likes
 
 ## What I'm currently working on
 
-- [PHP Router](https://github.com/tjallingf/php-router/): An extensive router library written in PHP.
-- [ThusPi](https://github.com/tjallingf/thuspi): A moden smarthome system for the Raspberry Pi 4.
+- [PHP Router](https://github.com/tjallingf/php-router/) - An extensive router library written in PHP.
+- [ThusPi](https://github.com/tjallingf/thuspi) - A moden smarthome system for the Raspberry Pi 4.
+- [MagisterPHP](https://github.com/tjallingf/magister-php) - A PHP library for the Magister 6 API.
 - Magistraal: Features an all new way to use Iddink's Magister for students.
 
 ## What I've built
